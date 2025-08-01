@@ -1,0 +1,42 @@
+# Brijwasi Sweets Power BI Dashboard 🍬📊
+
+This project presents an interactive Power BI dashboard built using real-world menu and sales data from **Brijwasi Sweets**, a popular Indian sweets and snacks brand.
+
+## 🔧 Tools & Technologies
+- **Power BI** – for dashboard design and data visualization
+- **Microsoft Excel / CSV** – for data extraction and cleaning
+- **SQL (Optional)** – for backend logic (if applicable)
+
+## 📊 Dashboard Highlights
+The dashboard provides insights into:
+- 📦 **Sales analysis** across categories like Sweets, Namkeen, Fast Food, and Beverages  
+- 💸 **Item-wise price and sales performance**  
+- ⚖️ **Quantity and profit distribution**  
+- 🧾 **Data-driven view** of customer demand patterns  
+
+## 📁 Files Included
+- `brijwasi_dashboard.pbix` – Power BI dashboard file  
+- `brijwasi_data.csv` – Cleaned dataset used in the report  
+- `images/` – Optional screenshots for preview  
+- `README.md` – Project description
+
+## 🚀 How to Use
+1. Clone or download this repository
+2. Open `brijwasi_dashboard.pbix` in Power BI Desktop
+3. Explore the visualizations or modify as per your use case
+
+## 📷 Dashboard Preview
+![Dashboard Screenshot](images/dashboard-preview.png)
+
+> *Note: Add your screenshot inside an `images` folder to render the preview above.*
+
+## 🤝 Contribution
+Feel free to fork this repository and enhance the dashboard with new visuals, DAX metrics, or external data integrations.
+
+## 🔗 Connect
+If you liked this project, check out my LinkedIn post: [LinkedIn Post Link]  
+Also, feel free to connect with me on [LinkedIn](https://www.linkedin.com/)!
+
+---
+
+#powerbi #dataanalytics #brijwasisweets #sql #dashboard #retailanalytics #portfolio
